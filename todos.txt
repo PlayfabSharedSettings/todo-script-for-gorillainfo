@@ -1,3 +1,4 @@
 More Custom Properties
 Custom Themes
 5+ Settings
+Notifications
