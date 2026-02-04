@@ -1,3 +1,4 @@
 More Custom Properties
 5+ Settings
 Notifications
+Cosmetx Detection
