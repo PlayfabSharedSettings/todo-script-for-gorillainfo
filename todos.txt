@@ -5,3 +5,4 @@ Notifications
 Cosmetx Detection
 Lobby Hopping Fix
 Mute And Priorotize Player
+Networking. (Yellow means vip, Purple means free)
