@@ -3,3 +3,4 @@ More Custom Properties
 Notifications
 Cosmetx Detection
 Lobby Hopping Fix
+Mute And Priorotize Player
