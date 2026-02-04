@@ -3,3 +3,4 @@ Custom Themes
 5+ Settings
 Notifications
 Cosmetx Detection
+Lobby Hopping Fix
