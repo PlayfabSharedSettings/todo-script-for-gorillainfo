@@ -3,3 +3,4 @@ More Custom Properties
 [TODO 4] Notifications
 [TODO 5] Cosmetx Detection
 [TODO 6] Lobby Hopping Fix
+[TODO 8] Networking. (Yellow means vip, Purple means free)
