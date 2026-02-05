@@ -5,3 +5,4 @@ Cosmetx Detection
 Lobby Hopping Fix
 Mute And Priorotize Player
 Networking. (Yellow means vip, Purple means free)
+AssetBundle Improvement, e.g. Buttons, textures, text, general improvements etc.
